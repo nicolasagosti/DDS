@@ -1,4 +1,7 @@
 class Atuendo {
+	public static void main(String[] args) {
+		    System.out.println("holaMundo");
+	}
 	Prenda[] prendas;
 	int cantidadPrendas = 0;
 	
